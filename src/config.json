@@ -1,0 +1,77 @@
+{
+	"seo": {
+		"url": "https://nullified.sh",
+		"title": "Josh's developer portfolio",
+		"description": "Hi, my name is Josh. I'm a Singaporean full-stack developer with a passion for microcontrollers and embedded systems, but I also enjoy developing websites and mobile apps.",
+		"keywords": [
+			"NullifiedJosh",
+			"Nullified",
+			"NullifiedSh",
+			"Josh",
+			"Joshua",
+			"josh-codes",
+			"developer",
+			"portfolio",
+			"programmer"
+		],
+		"crawl_every": "30",
+		"author": "josh-codes"
+	},
+	"title": "Hi, I'm Josh 👋",
+	"description": "I'm a Singaporean 🇸🇬 full-stack developer with a passion for microcontrollers and embedded systems ⚙️, but I also enjoy developing websites and mobile apps 📱. I specialize in JavaScript, and TypeScript but love to toy with low-level languages like C and C++. Sometimes I get so focused on projects I end up staying up till 1AM 😮‍💨 but those projects never see the light of day because I only publish my best work! Outside of development, I love to read and watch Japanese and Chinese manga and anime.",
+	"contact": {
+		"defaultText": "My contact info is unavailable at the moment.",
+		"items": [
+			{
+				"text": "Blog",
+				"link": "https://blog.nullified.sh",
+				"value": "https://blog.nullified.sh"
+			},
+			{
+				"text": "Email",
+				"link": "mailto:josh@nullified.sh",
+				"value": "josh@nullified.sh"
+			},
+			{
+				"text": "Github",
+				"link": "https://github.com/josh-codes",
+				"value": "josh-codes"
+			},
+			{
+				"text": "Twitter",
+				"link": "https://twitter.com/NullifiedJosh",
+				"value": "NullifiedJosh"
+			},
+			{
+				"text": "Discord",
+				"value": "null#3619"
+			}
+		]
+	},
+	"work": {
+		"defaultText": "Currently, I have no work that I'm proud of.",
+		"items": [
+		]
+	},
+	"tech": {
+		"defaultText": "Currently, I do not know any technolgies.",
+		"items": [
+			"Python",
+			"JavaScript",
+			"PHP",
+			"TypeScript",
+			"C/C++",
+			"Rust",
+			"Swift (beginner)",
+			"Electron",
+			"SQL",
+			"Firebase",
+			"React",
+			"Tailwind",
+			"Svelte",
+			"Docker",
+			"Git",
+			"Netlify"
+		]
+	}
+}
